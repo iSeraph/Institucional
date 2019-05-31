@@ -21,7 +21,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](https://www.shtreber.com/uploads_admin/4096x4096/$2y$10$iRA4Z-EFLhudAAWhcLP9wesB0p3415PuUNOn5vpCECnnyPR4Jh0ke.png)
+[Link](url) and <img src="https://www.shtreber.com/uploads_admin/4096x4096/$2y$10$iRA4Z-EFLhudAAWhcLP9wesB0p3415PuUNOn5vpCECnnyPR4Jh0ke.png"/>
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
