@@ -16,6 +16,7 @@ Te invito a ver este video para que inicies en este maravilloso mundo.
 ### Publicidad
 
 <img src="https://introcrea.com/wp-content/uploads/2018/06/cliente-adidas-introcrea.jpg"/>
+<img src="https://cazaofertas.com.mx/wp-content/uploads/2018/12/En-Innovasport-hasta-30-de-descuento-en-tenis-seleccionados-Adidas-Ultraboost.jpg"/>
 
 ### Evangelio del dia online
 
