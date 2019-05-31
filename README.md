@@ -23,3 +23,4 @@ Tenemos descuentos especiales para nuestro primeros visitantes
  
  Quiero agradecer al profesor John Jairo Puentes Moreno por enseñarnos a crear una pagina con GitHub
 
+<img src="http://www.lasalle.org.co/wp-content/uploads/2017/03/16938792_10155782872538056_7280796294272644926_n.jpg"/>
