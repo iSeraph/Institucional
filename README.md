@@ -2,11 +2,9 @@
 
 Te damos la bienvenida al mejor sitio para aprender sobre robotica en poco tiempo
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Inicia Ya
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Tenemos descuentos especiales para nuestro primeros visitantes
 
 ```markdown
 Syntax highlighted code block
@@ -23,7 +21,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](https://www.shtreber.com/uploads_admin/4096x4096/$2y$10$iRA4Z-EFLhudAAWhcLP9wesB0p3415PuUNOn5vpCECnnyPR4Jh0ke.png)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
