@@ -2,9 +2,9 @@
 
 Te damos la bienvenida al mejor sitio para aprender sobre robotica en poco tiempo
 
-### Inicia Ya
+### Empieza ya
 
-Tenemos descuentos especiales para nuestro primeros visitantes
+Te invito a ver este video para que inicies en este maravilloso mundo.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qnnNLk9Bwh0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
