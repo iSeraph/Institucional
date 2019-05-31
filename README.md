@@ -15,7 +15,7 @@ Te invito a ver este video para que inicies en este maravilloso mundo.
 
 ### Publicidad
 
-<img src="https://i.ytimg.com/vi/igFmwbsmboo/maxresdefault.jpg"/>
+<img src="https://introcrea.com/wp-content/uploads/2018/06/cliente-adidas-introcrea.jpg"/>
 
 ### Evangelio del dia online
 
