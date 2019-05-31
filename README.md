@@ -6,6 +6,8 @@ Te damos la bienvenida al mejor sitio para aprender sobre robotica en poco tiemp
 
 Tenemos descuentos especiales para nuestro primeros visitantes
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qnnNLk9Bwh0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 1. Curso de robotica Basica
 <img src="https://www.steren.cr/media/catalog/product/cache/10f519365b01716ddb90abc57de5a837/k/-/k-910_3.jpg"/> 
 2. Curso de robotica Avanzada
