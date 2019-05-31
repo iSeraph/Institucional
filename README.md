@@ -19,3 +19,7 @@ Tenemos descuentos especiales para nuestro primeros visitantes
 
 <img src="http://static-1.ivoox.com/audios/9/2/6/4/3601524444629_XXL.jpg"/>
 
+### Agradecimiento especial 
+ 
+ Quiero agradecer al profesor John Jairo Puentes Moreno por enseñarnos a crear una pagina con GitHub
+
