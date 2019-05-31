@@ -13,8 +13,9 @@ Tenemos descuentos especiales para nuestro primeros visitantes
 
 ### Publicidad
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/iSeraph/Institucional/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<img src="https://i.ytimg.com/vi/igFmwbsmboo/maxresdefault.jpg"/>
 
-### Support or Contact
+### Evangelio del dia online
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<img src="http://static-1.ivoox.com/audios/9/2/6/4/3601524444629_XXL.jpg"/>
+
