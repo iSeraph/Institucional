@@ -1,6 +1,6 @@
 ## Curso de robotica gratis!!
 
-Te damos la bienvenida al mejor sitio para aprender sobre robotica en poco tiempo
+Te damos la bienvenida al mejor sitio para aprender sobre robotica en poco tiempo.
 
 ### Empieza ya
 
@@ -19,10 +19,12 @@ Te invito a ver este video para que inicies en este maravilloso mundo.
 
 ### Evangelio del dia online
 
+El ángel le dijo: «Dios tiene presentes tus oraciones y lo que has hecho para ayudar a los necesitados».
+
 <img src="http://static-1.ivoox.com/audios/9/2/6/4/3601524444629_XXL.jpg"/>
 
 ### Agradecimiento especial 
  
- Quiero agradecer al profesor John Jairo Puentes Moreno por enseñarnos a crear una pagina con GitHub
+ Quiero agradecer al profesor John Jairo Puentes Moreno por enseñarnos a crear una pagina con GitHub. :D
 
 <img src="http://www.lasalle.org.co/wp-content/uploads/2017/03/16938792_10155782872538056_7280796294272644926_n.jpg"/>
