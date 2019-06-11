@@ -25,9 +25,9 @@ El ángel le dijo: «Dios tiene presentes tus oraciones y lo que has hecho para 
 ### Imagenes "Necesarias"
 <img src="https://raw.githubusercontent.com/iSeraph/Institucional/gh-pages/c4ddd8411266461e9d92b4eb624914aa%20(1).jpg" width="600" height="500"> | <img src="https://raw.githubusercontent.com/iSeraph/Institucional/gh-pages/c5974cb2f6224bf49923fa1bc75ed721%20(1).jpg" width="600" height="500"> 
 
-First Header | Second Header
+Imagen 1 | Imagen 2
 ------------ | -------------
-Content from cell 1 | Content from cell 2
+<img src="https://raw.githubusercontent.com/iSeraph/Institucional/gh-pages/c4ddd8411266461e9d92b4eb624914aa%20(1).jpg" width="600" height="500"> | <img src="https://raw.githubusercontent.com/iSeraph/Institucional/gh-pages/c5974cb2f6224bf49923fa1bc75ed721%20(1).jpg" width="600" height="500">
 Content in the first column | Content in the second column
 
 ### Agradecimiento especial 
