@@ -7,9 +7,6 @@ Te damos la bienvenida al mejor sitio para aprender sobre robotica en poco tiemp
 Te invito a ver este video para que inicies en este maravilloso mundo.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qnnNLk9Bwh0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-1. Curso de robotica Basica: | 2. Curso de robotica Avanzada:
------------- | -------------
-<img src="https://www.steren.cr/media/catalog/product/cache/10f519365b01716ddb90abc57de5a837/k/-/k-910_3.jpg"/>  | <img src="https://www.shtreber.com/uploads_admin/4096x4096/$2y$10$iRA4Z-EFLhudAAWhcLP9wesB0p3415PuUNOn5vpCECnnyPR4Jh0ke.png"/>
 1. Curso de robotica Basica:
 <img src="https://www.steren.cr/media/catalog/product/cache/10f519365b01716ddb90abc57de5a837/k/-/k-910_3.jpg"/> 
 2. Curso de robotica Avanzada:
